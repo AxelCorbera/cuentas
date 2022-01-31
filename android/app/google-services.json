@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278479199960",
+    "firebase_url": "https://cuentas-ba795-default-rtdb.firebaseio.com",
+    "project_id": "cuentas-ba795",
+    "storage_bucket": "cuentas-ba795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278479199960:android:24ad621e33386adc4941ad",
+        "android_client_info": {
+          "package_name": "com.corberaApp.Cuentas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278479199960-sunpheqomnu198c02188nkj54upoiu68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.corberaApp.Cuentas",
+            "certificate_hash": "d8ea15313b9fa16b353a91046199dbe1d5fba563"
+          }
+        },
+        {
+          "client_id": "278479199960-78ffoofq43lojbt9ajbs52cqu0vi6pi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxsLQ0xEOtCbvvJQWkh9N96XX9sDnIEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278479199960-78ffoofq43lojbt9ajbs52cqu0vi6pi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
